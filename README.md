@@ -1,6 +1,6 @@
-# Wellar AI V2
+# Wisebase AI V2
 
-Wellar AI V2 is a standalone Python/FastAPI backend. It is separate from the Legacy AI server and does not modify the Flutter or Directus projects. The current worker emits a rule-based, indicative, non-diagnostic eye/face indicator with quality abstention. It is not a validated fatigue classifier. Fatigue/focus predictions and research classifiers remain disabled; no confidence or accuracy output is claimed.
+Wisebase AI V2 is a standalone Python/FastAPI backend. It is separate from the Legacy AI server and does not modify the Flutter or Directus projects. The current worker emits a rule-based, indicative, non-diagnostic eye/face indicator with quality abstention. It is not a validated fatigue classifier. Fatigue/focus predictions and research classifiers remain disabled; no confidence or accuracy output is claimed.
 
 ## Development
 
